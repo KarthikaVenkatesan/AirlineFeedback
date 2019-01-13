@@ -1,4 +1,15 @@
-# Generated files
-This repository contains generated files and a checksum.
-
-**Do not edit the files in this repository outside of an instance of ServiceNow.**
+About the application:
+User will be able to provide feedback for flights.
+It gets reviewed by a team and on approval an enhancement gets created.
+If rejected, no enhancement is created.
+Includes the following elements:
+Tables&Fields
+Roles, Groups membership
+Record Producers
+Workflows
+Business Rules
+Client Scripts
+UI policy
+UI actions
+Registering and Triggering Events
+Email Notification
