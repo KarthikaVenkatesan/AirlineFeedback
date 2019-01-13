@@ -6,6 +6,7 @@ If rejected, no enhancement is created.
 Includes the following elements:
 Tables&Fields
 Roles, Groups membership
+ACLs
 Record Producers
 Workflows
 Business Rules
